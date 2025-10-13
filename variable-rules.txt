@@ -1,0 +1,6 @@
+1. Variable must start with character
+2. It cannot have space or line gap
+3. It cannot have special character except underscore (_)
+4. It cannot be any keyword
+5. Variables are case sensitive
+6. Its a good practice to define meaningful variables 
