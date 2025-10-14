@@ -19,5 +19,6 @@ class PrimeNo {
         }else{
             System.out.println(n+" IS NOT PRIME.");
         }
+        s.close();
     }
 }
