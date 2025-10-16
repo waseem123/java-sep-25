@@ -13,7 +13,6 @@ class PrimeNo {
                 break;
             }
         }
-
         if (prime==true) {
             System.out.println(n+" IS PRIME.");
         }else{
