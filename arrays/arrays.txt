@@ -1,0 +1,17 @@
+What is an array?
+Array is a collection of elements of same datatype.
+Values in array are stored on sequential memory blocks
+Array elements can be access using their indexes.
+Array index always starts with zero(0)
+Array index always ends with length - 1
+
+Syntax to create an array - 
+    1. datatype[] name_of_array = new datatype[size];
+    NOTE - size is the constant integer.
+
+    2. datatype[] name_of_array = {value1, value2, value3, ..., value N};
+
+Syntax to access the array elements - 
+    name_of_array[index];
+
+    NOTE - index is the integer value between 0 to (length-1).
