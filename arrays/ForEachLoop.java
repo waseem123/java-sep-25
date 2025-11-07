@@ -2,14 +2,14 @@ class ForEachLoop {
     public static void main(String[] args) {
         int[] arr = { 35, 41, 18, 78, 2, 97, 21, 31, 42, 6 };
 
-        for (int i : arr) {
-            System.out.println(i);
+        for(int x:arr){
+            System.out.println(x);
         }
 
-        String[] stud = { "Farah", "Falak", "Madiha", "Naveed", "Saif" };
+        String[] students = {"Naveed","Saif","Miran","Waseem","Sahil","Falak"};
 
-        for (String i : stud) {
-            System.out.println(i);
+        for(String s:students){
+            System.err.println(s);
         }
     }
 }

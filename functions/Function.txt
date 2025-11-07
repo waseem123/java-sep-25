@@ -1,0 +1,22 @@
+Function - Function is a self contained block of code, that performs a specific task.
+
+Function has two phases - 
+1. Definition - Writing the expected operational code for the function.
+2. Invokation / Call - Calling the function to execute the allocated task of it.
+
+1. Definition Syntax
+public <static> return_datatype Name_Of_Function(datatype param1, datatype param2...datatype paramN){
+    statement 1
+    statement 2
+    ...
+    statement N
+}
+
+2. Invokation Syntax
+Name_Of_Function(v1,v2...vN);
+
+There are four types of functions - 
+1. No Parameter No Return Value
+2. Parameter No Return Value
+3. No Parameter Return Value
+4. Parameter and Return Value both
